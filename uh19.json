@@ -9,7 +9,7 @@
 					"Viele Ideen",
 					"Spannende Projekte"
 				],
-				"icon": "fas fa-users"
+				"icon": "fas fa-rocket"
 			},
 			{
 				"title": "Teilnahme",
@@ -19,7 +19,8 @@
 					"Kommunikation",
 					"IT",
 					"Design"
-				]
+				],
+				"icon": "fas fa-users"
 			},
 			{
 				"title": "USP",
