@@ -61,7 +61,8 @@
 	},
 	"travel": {
 		"title": "Anreise",
-		"description": "<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 14pt; margin-bottom: 14pt;\">Wer mit dem Auto anreisen m&ouml;chte, kann einen der vielen kostenlosen Parkpl&auml;tze beim Illwerke Zentrum Montafon (Anton-Ammann-Stra&szlig;e 12, 6773 Vandans, &Ouml;sterreich) nutzen.</p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 14pt; margin-bottom: 14pt;\">Zugfahrende kommen aber auch auf ihre Kosten: Der Bahnhof Kaltenbrunnen im Montafon ist nur wenige Gehminuten vom Veranstaltungsort entfernt. Alle Details findet ihr im <a href=\"http://fahrplan.oebb.at/bin/query.exe/dn\" target=\"_blank\" rel=\"noopener\">Fahrplan der &Ouml;BB.</a></p>"
+		"description": "<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 14pt; margin-bottom: 14pt;\">Wer mit dem Auto anreisen m&ouml;chte, kann einen der vielen kostenlosen Parkpl&auml;tze beim Illwerke Zentrum Montafon (Anton-Ammann-Stra&szlig;e 12, 6773 Vandans, &Ouml;sterreich) nutzen.</p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 14pt; margin-bottom: 14pt;\">Zugfahrende kommen aber auch auf ihre Kosten: Der Bahnhof Kaltenbrunnen im Montafon ist nur wenige Gehminuten vom Veranstaltungsort entfernt. Alle Details findet ihr im <a href=\"http://fahrplan.oebb.at/bin/query.exe/dn\" target=\"_blank\" rel=\"noopener\">Fahrplan der &Ouml;BB.</a></p>",
+		"image": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@352542278f46eb721d28b59d794223512251e58f/images/sticker_2.png"
 	},
 	"idea": {
 		"title": "Ideen- & Teamfindung",
