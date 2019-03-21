@@ -1,130 +1,130 @@
 {
-"features": {
-"feature": [
-{
-"title": "Der UH19",
-"list_item": [
-"26 Stunden Hackathon",
-"200 Teilnehmende",
-"Viele Ideen",
-"Spannende Projekte"
-]
-},
-{
-"title": "Teilnahme",
-"list_item": [
-"Technik",
-"Handwerk",
-"Kommunikation",
-"IT",
-"Design"
-]
-},
-{
-"title": "USP",
-"list_item": [
-"Kostenlos",
-"Verpflegung inklusive",
-"tolle Community",
-"nicht kompetetiv"
-]
-}
-]
-},
-"what": {
-"title": "Was ist der Umma Hüsla Hackathon?",
-"description": "<p>Der Umma H&uuml;sla Hackathon 2019 (#UH19) ist ein 26-Stunden-Event, bei dem sich Teilnehmende aus allen Sparten zusammenfinden. Ziel des Hackathons ist es, im Team oder auch alleine, n&uuml;tzliche, kreative oder unterhaltsame Prototypen und Projekte umzusetzen.</p>\n<p>&nbsp;</p>\n<p>Der f&uuml;nfte Umma H&uuml;sla Hackathon findet am 14. und 15. Juni 2019 in der Vierl&auml;nderregion Bodensee statt. Diesmal wird das Illwerke Zentrum Montafon in Vandans zur Herberge f&uuml;r die 26-st&uuml;ndige Ideenschmiede. Das Motto des diesj&auml;hrigen Hackathons lautet #rockit.</p>\n<p>&nbsp;</p>\n<p>Dabei spielen Vorkenntnisse keine Rolle. Im Vordergrund stehen das Verbindende und die Freude am Umsetzen der mitgebrachten Ideen und Projekte sowie das Kn&uuml;pfen neuer Kontakte.</p>\n<p>&nbsp;</p>\n<p>Der Umma H&uuml;sla Hackathon ist einzigartig in Vorarlberg und in der Region, weil er von der Community f&uuml;r die Community organisiert wird. Im Vergleich zu anderen Veranstaltungen setzt er beim Menschen an, mit der &Uuml;berzeugung, dass Digitalisierung bei jedem und jeder Einzelnen beginnt. Diese zentralen Bestandteile machen den Spirit des #UH19 aus.</p>",
-"title  h2": "Was ist der Hackathon?"
-},
-"program": {
-"title": "Programm",
-"description": [
-"<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Freitag 14. Juni:</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">14:00 Registrierung der Teilnehmer</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">14:45 Er&ouml;ffnung</span></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">15:30 Start Hackathon</span></p>\n<div class=\"mv-item-bar mv-ui\" hidden=\"\">&nbsp;</div>\n<div class=\"mv-item-bar mv-ui mv-sticky\">&nbsp;</div>",
-"<div class=\"mv-item-bar mv-ui mv-sticky\" hidden=\"\">&nbsp;</div>"
-],
-"item": [
-{
-"description": "<p><strong>Freitag 14. Juni:</strong></p>\n<p>&nbsp;</p>\n<p>14:00 Registrierung der Teilnehmer</p>\n<p>14:45 Er&ouml;ffnung</p>\n<p>15:30 Start Hackathon</p>"
-},
-{
-"description": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong>Samstag 15. Juni:</strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">Kinderhackathon (Details folgen)</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">ab 11:30 Besuche &amp; F&uuml;hrungen</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">17:30 Abschluss Projekte</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">ab 17:30 Abschlusspr&auml;sentationen</p>"
-}
-]
-},
-"travel": {
-"title": "Anreise",
-"description": "<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 14pt; margin-bottom: 14pt;\">Wer mit dem Auto anreisen m&ouml;chte, kann einen der vielen kostenlosen Parkpl&auml;tze beim Illwerke Zentrum Montafon (Anton-Ammann-Stra&szlig;e 12, 6773 Vandans, &Ouml;sterreich) nutzen. Zugfahrende kommen aber auch auf ihre Kosten: Der Bahnhof Kaltenbrunnen im Montafon ist nur wenige Gehminuten vom Veranstaltungsort entfernt. Alle Details findet ihr im <a href=\"http://fahrplan.oebb.at/bin/query.exe/dn\" target=\"_blank\" rel=\"noopener\">Fahrplan der &Ouml;BB.</a></p>"
-},
-"idea": {
-"title": "Ideen- & Teamfindung",
-"description": "<p>F&uuml;r alle Unschl&uuml;ssigen bieten wir einen Ideen- und Teamfindungs-Workshop an. Hier k&ouml;nnt ihr euch Gedanken &uuml;ber euer Projekt machen oder sogar ein Team finden. In den letzten Jahren konnten wir viele gl&uuml;ckliche Hackathon-Teilnehmende untereinander vermitteln.</p>\n<p>&nbsp;</p>\n<p>Die Ideenwerkstatt ist ein dreist&uuml;ndiger Workshop, bei dem die Kreativit&auml;t der Teilnehmenden zum Motto #rockit angeregt wird und eigene Ideen entwickelt werden. Ziel ist es, dass Projekte f&uuml;r den #UH19 definiert werden und noch gen&uuml;gend Zeit bleibt, sich nach der Ideenwerkstatt mit dem (neuen) Team zu organisieren.</p>\n<p>&nbsp;</p>\n<p>Die Ideenwerkstatt ist in Gruppen&uuml;bungen angelegt, damit der Spa&szlig; nicht zu kurz kommt und die Ideen zu den Teams und umgekehrt finden k&ouml;nnen. Wir glauben daran, dass Projekte mit Leidenschaft und Herzblut entstehen werden und verwenden daf&uuml;r moderne Methoden aus Design Thinking und Art of Hosting.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Wir bitten dich, um Anmeldung bis sp&auml;testens 17. Mai, damit wir uns entsprechend vorbereiten k&ouml;nnen. Die Teilnehmerpl&auml;tze sind begrenzt.</p>\n<p>&nbsp;</p>\n<p><strong>Termin:</strong></p>\n<p>Freitag, 24. Mai 2019</p>\n<p>15:00 - 18:00 Uhr</p>\n<p>Mutterschiff der Plattform f&uuml;r Digitale Initiativen, Widagasse 11, Dornbirn</p>\n<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSd4wrSyolH3H-bVAGv6M47o6rb14263Uo2HFU7MZtBa95dw7w/viewform?usp=sf_link\" target=\"_blank\" rel=\"noopener\">Anmelden</a>&nbsp;</p>\n<p>&nbsp;</p>",
-"link": "https://docs.google.com/forms/d/e/1FAIpQLSd4wrSyolH3H-bVAGv6M47o6rb14263Uo2HFU7MZtBa95dw7w/viewform?usp=sf_link"
-},
-"faq": {
-"title": "FAQ",
-"faq-items": [
-{
-"title": "WANN, WO UND WIE FINDET DER HACKATHON STATT?",
-"description": "<p>Der Umma H&uuml;sla Hackathon findet vom 14. bis zum 15. Juni 2019 im <a href=\"https://www.illwerke.at/izm.htm\" target=\"_blank\" rel=\"noopener\">Illwerke Zentrum Montafon</a> im sch&ouml;nen Vandans statt. Alle Details zum Ablauf findet ihr weiter oben auf dieser Seite.</p>"
-}
-],
-"faq_item": [
-{
-"title": "WANN, WO UND WIE FINDET DER HACKATHON STATT?",
-"description": "<p>Der Umma H&uuml;sla Hackathon findet vom 14. bis zum 15. Juni 2019 im Illwerke Zentrum Montafon im sch&ouml;nen Vandans statt. Alle Details zum Ablauf findet ihr weiter oben auf dieser Seite.</p>"
-},
-{
-"title": "WAS MUSS ICH MITBRINGEN?",
-"description": "<p>Alles, was du zur Realisierung deines Projekts brauchst!&nbsp;</p>\n<p>Wir stellen Tisch, Stuhl, Strom und Internet. Essen, Getr&auml;nke, Schlafm&ouml;glichkeiten und flie&szlig;end Wasser. Was dar&uuml;ber hinausgeht, sei es Computer, Tastatur, Maus, Arduinos, &hellip; bitte selber mitbringen.</p>"
-},
-{
-"title": "ICH KANN NICHT PROGRAMMIEREN, KANN ICH TROTZDEM MITMACHEN? ",
-"description": "<p>Die Projekte beschr&auml;nken sich keineswegs auf&rsquo;s Programmieren, erw&uuml;nscht sind Ideen aus jeglichen Bereichen, z.B. Technik, Handwerk, Kommunikation, IT, Design etc.</p>"
-},
-{
-"title": "ICH WILL MITMACHEN, HABE ABER KEINE IDEE. ",
-"description": "<p>Komm zum Ideenfindungsworkshop. Es gibt immer Teams beim Hackathon, die noch Unterst&uuml;tzung suchen. Die Informationen dazu findest du im Abschnitt &ldquo;Ideenfindung&rdquo; weiter oben.</p>"
-},
-{
-"title": "WAS KOSTET MICH DER HACKATHON? ",
-"description": "<p>Schlaf, Zeit und ein paar graue Haare :-) Sonst ist der Hackathon kostenlos, denn er wird durch unsere Sponsoren finanziert.&nbsp;</p>"
-},
-{
-"title": "ICH HABE MICH ANGEMELDET, KANN ABER LEIDER NICHT KOMMEN",
-"description": "<p>Melde Dich bitte &uuml;ber das Kontaktformular bei uns.</p>\n<p>&nbsp;</p>"
-},
-{
-"title": "WAS IST, WENN MEIN PROJEKT NICHT FERTIG WIRD? ",
-"description": "<p>Wichtig sind das Anfangen, Ausprobieren und der Spa&szlig; am Projekt. Bei Bedarf kannst Du Dein Projekt im Mutterschiff, unserem Makerspace, fertigstellen.</p>"
-},
-{
-"title": "WIE VIEL PLATZ HABE ICH, UM MEIN PROJEKT UMZUSETZEN? ",
-"description": "<p>Der Platz im Geb&auml;ude ist gro&szlig;z&uuml;gig, aber beschr&auml;nkt. Allerdings k&ouml;nnt ihr euch an der frischen Luft ausbreiten. Wir bitten euch jedoch aus Gr&uuml;nden der Fairness gegen&uuml;ber den anderen Teilnehmenden, keine Roboterlegion oder &uuml;berlebensgro&szlig;e Projekte zu realisieren. Und falls der Platz doch mal knapp wird, fragt einfach lieb. Wir sind eine Community und helfen euch gern weiter.&nbsp;</p>"
-},
-{
-"title": "KANN MAN AUCH EINFACH ZU BESUCH KOMMEN?",
-"description": "<p>Jederzeit und immer gern &ndash; ihr seid herzlich willkommen! Interessierte k&ouml;nnen sich am 15. Juni 2019 ab 11.30 Uhr im Rahmen von gef&uuml;hrten Rundg&auml;ngen einen Eindruck &uuml;ber die Vielfalt der Projekte verschaffen.</p>"
-},
-{
-"title": "WIE REISE ICH AN? ",
-"description": "<p>Wer mit dem Auto anreisen m&ouml;chte, kann einen der vielen kostenlosen Parkpl&auml;tze beim Illwerke Zentrum Montafon (Anton-Ammann-Stra&szlig;e 12, 6773 Vandans, &Ouml;sterreich) nutzen. Zugfahrende kommen aber auch auf ihre Kosten: Der Bahnhof Kaltenbrunnen im Montafon ist nur wenige Gehminuten vom Veranstaltungsort entfernt. Alle Details findet ihr im Fahrplan der &Ouml;BB.</p>"
-},
-{
-"title": "WELCHE HARDWARE IST VOR ORT? ",
-"description": "<p>&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 14pt; margin-bottom: 14pt;\"><span style=\"font-size: 12pt; font-family: Avenir; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Wir empfehlen euch, eure Hilfsmittel wie L&ouml;tkolben, Kreiss&auml;gen, Waffeleisen, N&auml;hmaschinen o.&auml;. selbst mitzubringen. Wir setzen auf die Kraft der Community, da wir nur &uuml;ber begrenzten Platz verf&uuml;gen und somit keine eigene Werkstatt zur bereitstellen k&ouml;nnen. Vor Ort gibt es einen &uuml;berdachten Outdoor-Arbeitsplatz f&uuml;r (fast) alle Schandtaten mit Holz, Metall &amp; Co.</span></p>"
-},
-{
-"title": "WIE IST DAS MIT DEM INTERNET? ",
-"description": "<p>Wir tun alles f&uuml;r eine gute Internetverbindung. Ja, wir kennen die Story vom Schiff. ;-) Und sollte mal Not am Mann oder an der Frau sein, hilft unser Team vor Ort gerne weiter!</p>"
-},
-{
-"title": "GIBT'S GENUG STROM?",
-"description": "<p>Na freilich &ndash; wir sind schlie&szlig;lich zu Gast bei Illwerke vkw! Falls ihr aber doch ein Ger&auml;t habt, das mehr Strom ben&ouml;tigt, gebt uns einfach im Vorfeld Bescheid und wir schauen, was m&ouml;glich ist.</p>"
-},
-{
-"title": "ALLES ANDERE",
-"description": "<p>Falls hier eine eurer Frage nicht beantwortet haben, k&ouml;nnt ihr uns jederzeit &uuml;ber unser Kontaktformular anschreiben. Wir sind gerne f&uuml;r euch da!</p>\n<p>&nbsp;</p>"
-}
-]
-}
+	"features": {
+		"feature": [
+			{
+				"title": "Der UH19",
+				"list_item": [
+					"26 Stunden Hackathon",
+					"200 Teilnehmende",
+					"Viele Ideen",
+					"Spannende Projekte"
+				]
+			},
+			{
+				"title": "Teilnahme",
+				"list_item": [
+					"Technik",
+					"Handwerk",
+					"Kommunikation",
+					"IT",
+					"Design"
+				]
+			},
+			{
+				"title": "USP",
+				"list_item": [
+					"Kostenlos",
+					"Verpflegung inklusive",
+					"tolle Community",
+					"nicht kompetetiv"
+				]
+			}
+		]
+	},
+	"what": {
+		"title": "Was ist der Umma Hüsla Hackathon?",
+		"description": "<p>Der Umma H&uuml;sla Hackathon 2019 (#UH19) ist ein 26-Stunden-Event, bei dem sich Teilnehmende aus allen Sparten zusammenfinden. Ziel des Hackathons ist es, im Team oder auch alleine, n&uuml;tzliche, kreative oder unterhaltsame Prototypen und Projekte umzusetzen.</p>\n<p>&nbsp;</p>\n<p>Der f&uuml;nfte Umma H&uuml;sla Hackathon findet am 14. und 15. Juni 2019 in der Vierl&auml;nderregion Bodensee statt. Diesmal wird das Illwerke Zentrum Montafon in Vandans zur Herberge f&uuml;r die 26-st&uuml;ndige Ideenschmiede. Das Motto des diesj&auml;hrigen Hackathons lautet #rockit.</p>\n<p>&nbsp;</p>\n<p>Dabei spielen Vorkenntnisse keine Rolle. Im Vordergrund stehen das Verbindende und die Freude am Umsetzen der mitgebrachten Ideen und Projekte sowie das Kn&uuml;pfen neuer Kontakte.</p>\n<p>&nbsp;</p>\n<p>Der Umma H&uuml;sla Hackathon ist einzigartig in Vorarlberg und in der Region, weil er von der Community f&uuml;r die Community organisiert wird. Im Vergleich zu anderen Veranstaltungen setzt er beim Menschen an, mit der &Uuml;berzeugung, dass Digitalisierung bei jedem und jeder Einzelnen beginnt. Diese zentralen Bestandteile machen den Spirit des #UH19 aus.</p>",
+		"title  h2": "Was ist der Hackathon?"
+	},
+	"program": {
+		"title": "Programm",
+		"description": [
+			"<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Freitag 14. Juni:</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">14:00 Registrierung der Teilnehmer</span></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">14:45 Er&ouml;ffnung</span></p>\n<p>&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><span style=\"font-size: 11pt; font-family: Arial; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">15:30 Start Hackathon</span></p>\n<div class=\"mv-item-bar mv-ui\" hidden=\"\">&nbsp;</div>\n<div class=\"mv-item-bar mv-ui mv-sticky\">&nbsp;</div>",
+			"<div class=\"mv-item-bar mv-ui mv-sticky\" hidden=\"\">&nbsp;</div>"
+		],
+		"item": [
+			{
+				"description": "<p><strong>Freitag 14. Juni:</strong></p>\n<p>&nbsp;</p>\n<p>14:00 Registrierung der Teilnehmer</p>\n<p>14:45 Er&ouml;ffnung</p>\n<p>15:30 Start Hackathon</p>"
+			},
+			{
+				"description": "<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\"><strong>Samstag 15. Juni:</strong></p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">&nbsp;</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">Kinderhackathon (Details folgen)</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">ab 11:30 Besuche &amp; F&uuml;hrungen</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">17:30 Abschluss Projekte</p>\n<p dir=\"ltr\" style=\"line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;\">ab 17:30 Abschlusspr&auml;sentationen</p>"
+			}
+		]
+	},
+	"travel": {
+		"title": "Anreise",
+		"description": "<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 14pt; margin-bottom: 14pt;\">Wer mit dem Auto anreisen m&ouml;chte, kann einen der vielen kostenlosen Parkpl&auml;tze beim Illwerke Zentrum Montafon (Anton-Ammann-Stra&szlig;e 12, 6773 Vandans, &Ouml;sterreich) nutzen. Zugfahrende kommen aber auch auf ihre Kosten: Der Bahnhof Kaltenbrunnen im Montafon ist nur wenige Gehminuten vom Veranstaltungsort entfernt. Alle Details findet ihr im <a href=\"http://fahrplan.oebb.at/bin/query.exe/dn\" target=\"_blank\" rel=\"noopener\">Fahrplan der &Ouml;BB.</a></p>"
+	},
+	"idea": {
+		"title": "Ideen- & Teamfindung",
+		"description": "<p>F&uuml;r alle Unschl&uuml;ssigen bieten wir einen Ideen- und Teamfindungs-Workshop an. Hier k&ouml;nnt ihr euch Gedanken &uuml;ber euer Projekt machen oder sogar ein Team finden. In den letzten Jahren konnten wir viele gl&uuml;ckliche Hackathon-Teilnehmende untereinander vermitteln.</p>\n<p>&nbsp;</p>\n<p>Die Ideenwerkstatt ist ein dreist&uuml;ndiger Workshop, bei dem die Kreativit&auml;t der Teilnehmenden zum Motto #rockit angeregt wird und eigene Ideen entwickelt werden. Ziel ist es, dass Projekte f&uuml;r den #UH19 definiert werden und noch gen&uuml;gend Zeit bleibt, sich nach der Ideenwerkstatt mit dem (neuen) Team zu organisieren.</p>\n<p>&nbsp;</p>\n<p>Die Ideenwerkstatt ist in Gruppen&uuml;bungen angelegt, damit der Spa&szlig; nicht zu kurz kommt und die Ideen zu den Teams und umgekehrt finden k&ouml;nnen. Wir glauben daran, dass Projekte mit Leidenschaft und Herzblut entstehen werden und verwenden daf&uuml;r moderne Methoden aus Design Thinking und Art of Hosting.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Wir bitten dich, um Anmeldung bis sp&auml;testens 17. Mai, damit wir uns entsprechend vorbereiten k&ouml;nnen. Die Teilnehmerpl&auml;tze sind begrenzt.</p>\n<p>&nbsp;</p>\n<p><strong>Termin:</strong></p>\n<p>Freitag, 24. Mai 2019</p>\n<p>15:00 - 18:00 Uhr</p>\n<p>Mutterschiff der Plattform f&uuml;r Digitale Initiativen, Widagasse 11, Dornbirn</p>\n<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSd4wrSyolH3H-bVAGv6M47o6rb14263Uo2HFU7MZtBa95dw7w/viewform?usp=sf_link\" target=\"_blank\" rel=\"noopener\">Anmelden</a>&nbsp;</p>\n<p>&nbsp;</p>",
+		"link": "https://docs.google.com/forms/d/e/1FAIpQLSd4wrSyolH3H-bVAGv6M47o6rb14263Uo2HFU7MZtBa95dw7w/viewform?usp=sf_link"
+	},
+	"faq": {
+		"title": "FAQ",
+		"faq-items": [
+			{
+				"title": "WANN, WO UND WIE FINDET DER HACKATHON STATT?",
+				"description": "<p>Der Umma H&uuml;sla Hackathon findet vom 14. bis zum 15. Juni 2019 im <a href=\"https://www.illwerke.at/izm.htm\" target=\"_blank\" rel=\"noopener\">Illwerke Zentrum Montafon</a> im sch&ouml;nen Vandans statt. Alle Details zum Ablauf findet ihr weiter oben auf dieser Seite.</p>"
+			}
+		],
+		"faq_item": [
+			{
+				"title": "WANN, WO UND WIE FINDET DER HACKATHON STATT?",
+				"description": "<p>Der Umma H&uuml;sla Hackathon findet vom 14. bis zum 15. Juni 2019 im <a href=\"https://www.illwerke.at/izm.htm\" target=\"_blank\" rel=\"noopener\">Illwerke Zentrum Montafon</a> im sch&ouml;nen Vandans statt. Alle Details zum Ablauf findet ihr weiter oben auf dieser Seite.</p>"
+			},
+			{
+				"title": "WAS MUSS ICH MITBRINGEN?",
+				"description": "<p>Alles, was du zur Realisierung deines Projekts brauchst!&nbsp;</p>\n<p>Wir stellen Tisch, Stuhl, Strom und Internet. Essen, Getr&auml;nke, Schlafm&ouml;glichkeiten und flie&szlig;end Wasser. Was dar&uuml;ber hinausgeht, sei es Computer, Tastatur, Maus, Arduinos, &hellip; bitte selber mitbringen.</p>"
+			},
+			{
+				"title": "ICH KANN NICHT PROGRAMMIEREN, KANN ICH TROTZDEM MITMACHEN? ",
+				"description": "<p>Die Projekte beschr&auml;nken sich keineswegs auf&rsquo;s Programmieren, erw&uuml;nscht sind Ideen aus jeglichen Bereichen, z.B. Technik, Handwerk, Kommunikation, IT, Design etc.</p>"
+			},
+			{
+				"title": "ICH WILL MITMACHEN, HABE ABER KEINE IDEE. ",
+				"description": "<p>Komm zum Ideenfindungsworkshop. Es gibt immer Teams beim Hackathon, die noch Unterst&uuml;tzung suchen. Die Informationen dazu findest du im Abschnitt &ldquo;Ideenfindung&rdquo; weiter oben.</p>"
+			},
+			{
+				"title": "WAS KOSTET MICH DER HACKATHON? ",
+				"description": "<p>Schlaf, Zeit und ein paar graue Haare :-) Sonst ist der Hackathon kostenlos, denn er wird durch unsere Sponsoren finanziert.&nbsp;</p>"
+			},
+			{
+				"title": "ICH HABE MICH ANGEMELDET, KANN ABER LEIDER NICHT KOMMEN",
+				"description": "<p>Melde Dich bitte &uuml;ber das Kontaktformular bei uns.</p>\n<p>&nbsp;</p>"
+			},
+			{
+				"title": "WAS IST, WENN MEIN PROJEKT NICHT FERTIG WIRD? ",
+				"description": "<p>Wichtig sind das Anfangen, Ausprobieren und der Spa&szlig; am Projekt. Bei Bedarf kannst Du Dein Projekt im <a href=\"http://mutterschiff.at/\" target=\"_blank\" rel=\"noopener\">Mutterschiff</a>, unserem Makerspace, fertigstellen.</p>"
+			},
+			{
+				"title": "WIE VIEL PLATZ HABE ICH, UM MEIN PROJEKT UMZUSETZEN? ",
+				"description": "<p>Der Platz im Geb&auml;ude ist gro&szlig;z&uuml;gig, aber beschr&auml;nkt. Allerdings k&ouml;nnt ihr euch an der frischen Luft ausbreiten. Wir bitten euch jedoch aus Gr&uuml;nden der Fairness gegen&uuml;ber den anderen Teilnehmenden, keine Roboterlegion oder &uuml;berlebensgro&szlig;e Projekte zu realisieren. Und falls der Platz doch mal knapp wird, fragt einfach lieb. Wir sind eine Community und helfen euch gern weiter.&nbsp;</p>"
+			},
+			{
+				"title": "KANN MAN AUCH EINFACH ZU BESUCH KOMMEN?",
+				"description": "<p>Jederzeit und immer gern &ndash; ihr seid herzlich willkommen! Interessierte k&ouml;nnen sich am 15. Juni 2019 ab 11.30 Uhr im Rahmen von gef&uuml;hrten Rundg&auml;ngen einen Eindruck &uuml;ber die Vielfalt der Projekte verschaffen.</p>"
+			},
+			{
+				"title": "WIE REISE ICH AN? ",
+				"description": "<p>Wer mit dem Auto anreisen m&ouml;chte, kann einen der vielen kostenlosen Parkpl&auml;tze beim Illwerke Zentrum Montafon (Anton-Ammann-Stra&szlig;e 12, 6773 Vandans, &Ouml;sterreich) nutzen. Zugfahrende kommen aber auch auf ihre Kosten: Der Bahnhof Kaltenbrunnen im Montafon ist nur wenige Gehminuten vom Veranstaltungsort entfernt. Alle Details findet ihr im <a href=\"http://fahrplan.oebb.at/bin/query.exe/dn\" target=\"_blank\" rel=\"noopener\">Fahrplan der &Ouml;BB</a>.</p>"
+			},
+			{
+				"title": "WELCHE HARDWARE IST VOR ORT? ",
+				"description": "<p dir=\"ltr\" style=\"line-height: 1.2; margin-top: 14pt; margin-bottom: 14pt;\"><span style=\"font-size: 12pt; font-family: Avenir; color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;\">Wir empfehlen euch, eure Hilfsmittel wie L&ouml;tkolben, Kreiss&auml;gen, Waffeleisen, N&auml;hmaschinen o.&auml;. selbst mitzubringen. Wir setzen auf die Kraft der Community, da wir nur &uuml;ber begrenzten Platz verf&uuml;gen und somit keine eigene Werkstatt zur bereitstellen k&ouml;nnen. Vor Ort gibt es einen &uuml;berdachten Outdoor-Arbeitsplatz f&uuml;r (fast) alle Schandtaten mit Holz, Metall &amp; Co.</span></p>"
+			},
+			{
+				"title": "WIE IST DAS MIT DEM INTERNET? ",
+				"description": "<p>Wir tun alles f&uuml;r eine gute Internetverbindung. Ja, wir kennen die Story vom Schiff. ;-) Und sollte mal Not am Mann oder an der Frau sein, hilft unser Team vor Ort gerne weiter!</p>"
+			},
+			{
+				"title": "GIBT'S GENUG STROM?",
+				"description": "<p>Na freilich &ndash; wir sind schlie&szlig;lich zu Gast bei Illwerke vkw! Falls ihr aber doch ein Ger&auml;t habt, das mehr Strom ben&ouml;tigt, gebt uns einfach im Vorfeld Bescheid und wir schauen, was m&ouml;glich ist.</p>"
+			},
+			{
+				"title": "ALLES ANDERE",
+				"description": "<p>Falls hier eine eurer Frage nicht beantwortet haben, k&ouml;nnt ihr uns jederzeit &uuml;ber unser Kontaktformular anschreiben. Wir sind gerne f&uuml;r euch da!</p>\n<p>&nbsp;</p>"
+			}
+		]
+	}
 }
