@@ -29,7 +29,8 @@
 					"Verpflegung inklusive",
 					"tolle Community",
 					"nicht kompetetiv"
-				]
+				],
+				"icon": "fas fa-fingerprint"
 			}
 		]
 	},
