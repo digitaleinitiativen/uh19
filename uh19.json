@@ -8,7 +8,8 @@
 					"200 Teilnehmende",
 					"Viele Ideen",
 					"Spannende Projekte"
-				]
+				],
+				"icon": "<i class=\"fas fa-users\"></i>"
 			},
 			{
 				"title": "Teilnahme",
