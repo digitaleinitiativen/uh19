@@ -9,7 +9,8 @@
 					"Viele Ideen",
 					"Spannende Projekte"
 				],
-				"icon": "fas fa-rocket"
+				"icon": "fas fa-rocket",
+				"description": "something"
 			},
 			{
 				"title": "Teilnahme",
