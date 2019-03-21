@@ -1,0 +1,41 @@
+{
+	"features": {
+		"feature": [
+			{
+				"title": "Der UH19",
+				"list_item": [
+					"\n                            Feature List Item\n                        "
+				]
+			}
+		]
+	},
+	"what": {
+		"title  h2": "\n                    Was ist der Umma Hüsla Hackathon?\n                ",
+		"description": "\n                    Beschreibung\n                "
+	},
+	"program": {
+		"title": "\n                Programm\n            ",
+		"item": [
+			{
+				"description": "\n                        Tag\n                    "
+			}
+		]
+	},
+	"travel": {
+		"title": "Anreise",
+		"description": "\n                    Beschreibung\n                "
+	},
+	"idea": {
+		"title": "Ideenfindung",
+		"description": "\n                Beschreibung\n            "
+	},
+	"faq": {
+		"title": "FAQ",
+		"faq_item": [
+			{
+				"title": "\n                        FAQ titel\n                    ",
+				"description": "\n                        FAQ Beschreibung\n                    "
+			}
+		]
+	}
+}
