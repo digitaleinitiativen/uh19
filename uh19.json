@@ -101,7 +101,7 @@
 			},
 			{
 				"title": "ICH HABE MICH ANGEMELDET, KANN ABER LEIDER NICHT KOMMEN",
-				"description": "<p>Melde Dich bitte &uuml;ber das Kontaktformular bei uns.</p>\n<p>&nbsp;</p>"
+				"description": "<p><a href=\"mailto:uh19@digitaleinitiativen.at\">Melde Dich bitte bei uns</a>.</p>\n<p>&nbsp;</p>"
 			},
 			{
 				"title": "WAS IST, WENN MEIN PROJEKT NICHT FERTIG WIRD? ",
@@ -133,7 +133,7 @@
 			},
 			{
 				"title": "ALLES ANDERE",
-				"description": "<p>Falls hier eine eurer Frage nicht beantwortet haben, k&ouml;nnt ihr uns jederzeit &uuml;ber unser Kontaktformular anschreiben. Wir sind gerne f&uuml;r euch da!</p>\n<p>&nbsp;</p>"
+				"description": "<p>Falls wir hier eine eurer Frage nicht beantwortet haben, k&ouml;nnt ihr uns jederzeit <a href=\"mailto:uh19@digitaleintiativen.at\">kontaktieren</a>. Wir sind gerne f&uuml;r euch da!</p>\n<p>&nbsp;</p>"
 			}
 		]
 	},
