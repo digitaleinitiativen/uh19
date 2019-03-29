@@ -70,76 +70,94 @@
 		"link": "https://docs.google.com/forms/d/e/1FAIpQLSd4wrSyolH3H-bVAGv6M47o6rb14263Uo2HFU7MZtBa95dw7w/viewform?usp=sf_link",
 		"infobox": "<p><strong>Termin:</strong></p>\n<p>Freitag, 24. Mai 2019</p>\n<p>15:00 - 18:00 Uhr</p>\n<p><a href=\"http://www.mutterschiff.at\" target=\"_blank\" rel=\"noopener\">Mutterschiff der Plattform f&uuml;r Digitale Initiativen</a></p>\n<p><a title=\"Google Maps\" href=\"https://www.google.at/maps/place/Widagasse+11,+6850+Dornbirn/@47.4178757,9.7446517,17z/data=!3m1!4b1!4m5!3m4!1s0x479b6b4e1f1a2b93:0x8aacd1140d32932f!8m2!3d47.4178757!4d9.7468404\" target=\"_blank\" rel=\"noopener\">Widagasse 11</a></p>\n<p>Dornbirn</p>"
 	},
-	"faq": {
-		"title": "FAQ",
-		"faq-items": [
-			{
-				"title": "WANN, WO UND WIE FINDET DER HACKATHON STATT?",
-				"description": "<p>Der Umma H&uuml;sla Hackathon findet vom 14. bis zum 15. Juni 2019 im <a href=\"https://www.illwerke.at/izm.htm\" target=\"_blank\" rel=\"noopener\">Illwerke Zentrum Montafon</a> im sch&ouml;nen Vandans statt. Alle Details zum Ablauf findet ihr weiter oben auf dieser Seite.</p>"
-			}
-		],
-		"faq_item": [
-			{
-				"title": "WANN, WO UND WIE FINDET DER HACKATHON STATT?",
-				"description": "<p>Der Umma H&uuml;sla Hackathon findet vom 14. bis zum 15. Juni 2019 im <a href=\"https://www.illwerke.at/izm.htm\" target=\"_blank\" rel=\"noopener\">Illwerke Zentrum Montafon</a> im sch&ouml;nen Vandans statt. Alle Details zum Ablauf findet ihr weiter oben auf dieser Seite.</p>"
-			},
-			{
-				"title": "WAS MUSS ICH MITBRINGEN?",
-				"description": "<p>Alles, was du zur Realisierung deines Projekts brauchst!&nbsp;</p>\n<p>Wir stellen Tisch, Stuhl, Strom und Internet. Essen, Getr&auml;nke, Schlafm&ouml;glichkeiten und flie&szlig;end Wasser. Was dar&uuml;ber hinausgeht, sei es Computer, Tastatur, Maus, Arduinos, &hellip; bitte selber mitbringen.</p>"
-			},
-			{
-				"title": "ICH KANN NICHT PROGRAMMIEREN, KANN ICH TROTZDEM MITMACHEN? ",
-				"description": "<p>Die Projekte beschr&auml;nken sich keineswegs auf&rsquo;s Programmieren, erw&uuml;nscht sind Ideen aus jeglichen Bereichen, z.B. Technik, Handwerk, Kommunikation, IT, Design etc.</p>"
-			},
-			{
-				"title": "ICH WILL MITMACHEN, HABE ABER KEINE IDEE. ",
-				"description": "<p>Komm zum Ideenfindungsworkshop. Es gibt immer Teams beim Hackathon, die noch Unterst&uuml;tzung suchen. Die Informationen dazu findest du im Abschnitt &ldquo;Ideenfindung&rdquo; weiter oben.</p>"
-			},
-			{
-				"title": "WAS KOSTET MICH DER HACKATHON? ",
-				"description": "<p>Schlaf, Zeit und ein paar graue Haare :-) Sonst ist der Hackathon kostenlos, denn er wird durch unsere Sponsoren finanziert.&nbsp;</p>"
-			},
-			{
-				"title": "ICH HABE MICH ANGEMELDET, KANN ABER LEIDER NICHT KOMMEN",
-				"description": "<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSemZKGHhYeIoF2FeALrezLFSzZNcvcj32Fi5fYqB_UEjl9CCA/viewform\" target=\"_blank\" rel=\"noopener\">Melde Dich bitte bei uns</a>.</p>\n<p>&nbsp;</p>"
-			},
-			{
-				"title": "WAS IST, WENN MEIN PROJEKT NICHT FERTIG WIRD? ",
-				"description": "<p>Wichtig sind das Anfangen, Ausprobieren und der Spa&szlig; am Projekt. Bei Bedarf kannst Du Dein Projekt im <a href=\"http://mutterschiff.at/\" target=\"_blank\" rel=\"noopener\">Mutterschiff</a>, unserem Makerspace, fertigstellen.</p>"
-			},
-			{
-				"title": "WIE VIEL PLATZ HABE ICH, UM MEIN PROJEKT UMZUSETZEN? ",
-				"description": "<p>Der Platz im Geb&auml;ude ist gro&szlig;z&uuml;gig, aber beschr&auml;nkt. Allerdings k&ouml;nnt ihr euch an der frischen Luft ausbreiten. Wir bitten euch jedoch aus Gr&uuml;nden der Fairness gegen&uuml;ber den anderen Teilnehmenden, keine Roboterlegion oder &uuml;berlebensgro&szlig;e Projekte zu realisieren. Und falls der Platz doch mal knapp wird, fragt einfach lieb. Wir sind eine Community und helfen euch gern weiter.&nbsp;</p>"
-			},
-			{
-				"title": "KANN MAN AUCH EINFACH ZU BESUCH KOMMEN?",
-				"description": "<p>Jederzeit und immer gern &ndash; ihr seid herzlich willkommen! Interessierte k&ouml;nnen sich am 15. Juni 2019 ab 11.30 Uhr im Rahmen von gef&uuml;hrten Rundg&auml;ngen einen Eindruck &uuml;ber die Vielfalt der Projekte verschaffen.</p>"
-			},
-			{
-				"title": "WIE REISE ICH AN? ",
-				"description": "<p>Wer mit dem Auto anreisen m&ouml;chte, kann einen der vielen kostenlosen Parkpl&auml;tze beim Illwerke Zentrum Montafon (Anton-Ammann-Stra&szlig;e 12, 6773 Vandans, &Ouml;sterreich) nutzen. Zugfahrende kommen aber auch auf ihre Kosten: Der Bahnhof Kaltenbrunnen im Montafon ist nur wenige Gehminuten vom Veranstaltungsort entfernt. Alle Details findet ihr im <a href=\"http://fahrplan.oebb.at/bin/query.exe/dn\" target=\"_blank\" rel=\"noopener\">Fahrplan der &Ouml;BB</a>.</p>"
-			},
-			{
-				"title": "WELCHE SCHLAFMÖGLICHKEITEN GIBT ES?",
-				"description": "<p>F&uuml;r das tollste Hackathon-Erlebnis empfehlen wir die Nacht zum Tag zu machen. Vor Ort haben wir auch eine beschr&auml;nkte Anzahl von mobilen Betten. All jene, die eine andere Schlafm&ouml;glichkeit suchen, werden bei z.B. <a href=\"https://hotels.montafon.at/de/buchen\" target=\"_blank\" rel=\"noopener\">Montafon Tourismus</a> f&uuml;ndig. Achtet dabei besonders auf die Distanz und Fahrzeit zum #UH19.</p>"
-			},
-			{
-				"title": "WELCHE HARDWARE IST VOR ORT? ",
-				"description": "<p>Wir empfehlen euch, eure Hilfsmittel wie L&ouml;tkolben, Kreiss&auml;gen, Waffeleisen, N&auml;hmaschinen o.&auml;. selbst mitzubringen. Wir setzen auf die Kraft der Community, da wir nur &uuml;ber begrenzten Platz verf&uuml;gen und somit keine eigene Werkstatt bereitstellen k&ouml;nnen. Vor Ort gibt es einen &uuml;berdachten Outdoor-Arbeitsplatz f&uuml;r (fast) alle Schandtaten mit Holz, Metall &amp; Co.</p>"
-			},
-			{
-				"title": "WIE IST DAS MIT DEM INTERNET? ",
-				"description": "<p>Wir tun alles f&uuml;r eine gute Internetverbindung. Ja, wir kennen die Story vom Schiff. ;-) Und sollte mal Not am Mann oder an der Frau sein, hilft unser Team vor Ort gerne weiter!</p>"
-			},
-			{
-				"title": "GIBT'S GENUG STROM?",
-				"description": "<p>Na freilich &ndash; wir sind schlie&szlig;lich zu Gast bei Illwerke vkw! Falls ihr aber doch ein Ger&auml;t habt, das mehr Strom ben&ouml;tigt, gebt uns einfach im Vorfeld Bescheid und wir schauen, was m&ouml;glich ist.</p>"
-			},
-			{
-				"title": "ALLES ANDERE",
-				"description": "<p>Falls wir hier eine eurer Frage nicht beantwortet haben, k&ouml;nnt ihr uns jederzeit <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSemZKGHhYeIoF2FeALrezLFSzZNcvcj32Fi5fYqB_UEjl9CCA/viewform\" target=\"_blank\" rel=\"noopener\">kontaktieren</a>. Wir sind gerne f&uuml;r euch da!</p>\n<p>&nbsp;</p>"
-			}
-		]
-	},
+	"faq": [
+		{
+			"title": "FAQ",
+			"faq-items": [
+				{
+					"title": "WANN, WO UND WIE FINDET DER HACKATHON STATT?",
+					"description": "<p>Der Umma H&uuml;sla Hackathon findet vom 14. bis zum 15. Juni 2019 im <a href=\"https://www.illwerke.at/izm.htm\" target=\"_blank\" rel=\"noopener\">Illwerke Zentrum Montafon</a> im sch&ouml;nen Vandans statt. Alle Details zum Ablauf findet ihr weiter oben auf dieser Seite.</p>"
+				}
+			],
+			"faq_item": [
+				{
+					"title": "WANN, WO UND WIE FINDET DER HACKATHON STATT?",
+					"description": "<p>Der Umma H&uuml;sla Hackathon findet vom 14. bis zum 15. Juni 2019 im <a href=\"https://www.illwerke.at/izm.htm\" target=\"_blank\" rel=\"noopener\">Illwerke Zentrum Montafon</a> im sch&ouml;nen Vandans statt. Alle Details zum Ablauf findet ihr weiter oben auf dieser Seite.</p>"
+				},
+				{
+					"title": "WAS MUSS ICH MITBRINGEN?",
+					"description": "<p>Alles, was du zur Realisierung deines Projekts brauchst!&nbsp;</p>\n<p>Wir stellen Tisch, Stuhl, Strom und Internet. Essen, Getr&auml;nke, Schlafm&ouml;glichkeiten und flie&szlig;end Wasser. Was dar&uuml;ber hinausgeht, sei es Computer, Tastatur, Maus, Arduinos, &hellip; bitte selber mitbringen.</p>"
+				},
+				{
+					"title": "ICH KANN NICHT PROGRAMMIEREN, KANN ICH TROTZDEM MITMACHEN? ",
+					"description": "<p>Die Projekte beschr&auml;nken sich keineswegs auf&rsquo;s Programmieren, erw&uuml;nscht sind Ideen aus jeglichen Bereichen, z.B. Technik, Handwerk, Kommunikation, IT, Design etc.</p>"
+				},
+				{
+					"title": "ICH WILL MITMACHEN, HABE ABER KEINE IDEE. ",
+					"description": "<p>Komm zum Ideenfindungsworkshop. Es gibt immer Teams beim Hackathon, die noch Unterst&uuml;tzung suchen. Die Informationen dazu findest du im Abschnitt &ldquo;Ideenfindung&rdquo; weiter oben.</p>"
+				},
+				{
+					"title": "WAS KOSTET MICH DER HACKATHON? ",
+					"description": "<p>Schlaf, Zeit und ein paar graue Haare :-) Sonst ist der Hackathon kostenlos, denn er wird durch unsere Sponsoren finanziert.&nbsp;</p>"
+				},
+				{
+					"title": "ICH HABE MICH ANGEMELDET, KANN ABER LEIDER NICHT KOMMEN",
+					"description": "<p><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSemZKGHhYeIoF2FeALrezLFSzZNcvcj32Fi5fYqB_UEjl9CCA/viewform\" target=\"_blank\" rel=\"noopener\">Melde Dich bitte bei uns</a>.</p>\n<p>&nbsp;</p>"
+				},
+				{
+					"title": "WAS IST, WENN MEIN PROJEKT NICHT FERTIG WIRD? ",
+					"description": "<p>Wichtig sind das Anfangen, Ausprobieren und der Spa&szlig; am Projekt. Bei Bedarf kannst Du Dein Projekt im <a href=\"http://mutterschiff.at/\" target=\"_blank\" rel=\"noopener\">Mutterschiff</a>, unserem Makerspace, fertigstellen.</p>"
+				},
+				{
+					"title": "WIE VIEL PLATZ HABE ICH, UM MEIN PROJEKT UMZUSETZEN? ",
+					"description": "<p>Der Platz im Geb&auml;ude ist gro&szlig;z&uuml;gig, aber beschr&auml;nkt. Allerdings k&ouml;nnt ihr euch an der frischen Luft ausbreiten. Wir bitten euch jedoch aus Gr&uuml;nden der Fairness gegen&uuml;ber den anderen Teilnehmenden, keine Roboterlegion oder &uuml;berlebensgro&szlig;e Projekte zu realisieren. Und falls der Platz doch mal knapp wird, fragt einfach lieb. Wir sind eine Community und helfen euch gern weiter.&nbsp;</p>"
+				},
+				{
+					"title": "KANN MAN AUCH EINFACH ZU BESUCH KOMMEN?",
+					"description": "<p>Jederzeit und immer gern &ndash; ihr seid herzlich willkommen! Interessierte k&ouml;nnen sich am 15. Juni 2019 ab 11.30 Uhr im Rahmen von gef&uuml;hrten Rundg&auml;ngen einen Eindruck &uuml;ber die Vielfalt der Projekte verschaffen.</p>"
+				},
+				{
+					"title": "WIE REISE ICH AN? ",
+					"description": "<p>Wer mit dem Auto anreisen m&ouml;chte, kann einen der vielen kostenlosen Parkpl&auml;tze beim Illwerke Zentrum Montafon (Anton-Ammann-Stra&szlig;e 12, 6773 Vandans, &Ouml;sterreich) nutzen. Zugfahrende kommen aber auch auf ihre Kosten: Der Bahnhof Kaltenbrunnen im Montafon ist nur wenige Gehminuten vom Veranstaltungsort entfernt. Alle Details findet ihr im <a href=\"http://fahrplan.oebb.at/bin/query.exe/dn\" target=\"_blank\" rel=\"noopener\">Fahrplan der &Ouml;BB</a>.</p>"
+				},
+				{
+					"title": "WELCHE SCHLAFMÖGLICHKEITEN GIBT ES?",
+					"description": "<p>F&uuml;r das tollste Hackathon-Erlebnis empfehlen wir die Nacht zum Tag zu machen. Vor Ort haben wir auch eine beschr&auml;nkte Anzahl von mobilen Betten. All jene, die eine andere Schlafm&ouml;glichkeit suchen, werden bei z.B. <a href=\"https://hotels.montafon.at/de/buchen\" target=\"_blank\" rel=\"noopener\">Montafon Tourismus</a> f&uuml;ndig. Achtet dabei besonders auf die Distanz und Fahrzeit zum #UH19.</p>"
+				},
+				{
+					"title": "WELCHE HARDWARE IST VOR ORT? ",
+					"description": "<p>Wir empfehlen euch, eure Hilfsmittel wie L&ouml;tkolben, Kreiss&auml;gen, Waffeleisen, N&auml;hmaschinen o.&auml;. selbst mitzubringen. Wir setzen auf die Kraft der Community, da wir nur &uuml;ber begrenzten Platz verf&uuml;gen und somit keine eigene Werkstatt bereitstellen k&ouml;nnen. Vor Ort gibt es einen &uuml;berdachten Outdoor-Arbeitsplatz f&uuml;r (fast) alle Schandtaten mit Holz, Metall &amp; Co.</p>"
+				},
+				{
+					"title": "WIE IST DAS MIT DEM INTERNET? ",
+					"description": "<p>Wir tun alles f&uuml;r eine gute Internetverbindung. Ja, wir kennen die Story vom Schiff. ;-) Und sollte mal Not am Mann oder an der Frau sein, hilft unser Team vor Ort gerne weiter!</p>"
+				},
+				{
+					"title": "GIBT'S GENUG STROM?",
+					"description": "<p>Na freilich &ndash; wir sind schlie&szlig;lich zu Gast bei Illwerke vkw! Falls ihr aber doch ein Ger&auml;t habt, das mehr Strom ben&ouml;tigt, gebt uns einfach im Vorfeld Bescheid und wir schauen, was m&ouml;glich ist.</p>"
+				},
+				{
+					"title": "ALLES ANDERE",
+					"description": "<p>Falls wir hier eine eurer Frage nicht beantwortet haben, k&ouml;nnt ihr uns jederzeit <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSemZKGHhYeIoF2FeALrezLFSzZNcvcj32Fi5fYqB_UEjl9CCA/viewform\" target=\"_blank\" rel=\"noopener\">kontaktieren</a>. Wir sind gerne f&uuml;r euch da!</p>\n<p>&nbsp;</p>"
+				}
+			]
+		},
+		{
+			"sponsors": [
+				{
+					"package": "1",
+					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@0a0b86315fb94d945f14afc89b83ff08845f85c0/images/01_TigerOrange_IL-Logo-Combined-Colour.png"
+				},
+				{
+					"package": "2",
+					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@3ce6fe0e1bce694a3b14c7a6f12e633e982f451b/images/logo_rhomberg_quer_cmyk.jpg"
+				},
+				{
+					"package": "1",
+					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@d0e354b20bca165d8dbb1bf0a8ba090d61968c95/images/05_Gainsboro_FHV.png"
+				}
+			]
+		}
+	],
 	"copyright": "Plattform für Digitale Initiativen"
 }
