@@ -159,5 +159,11 @@
 			]
 		}
 	],
-	"copyright": "Plattform für Digitale Initiativen"
+	"copyright": "Plattform für Digitale Initiativen",
+	"history": {
+		"title": "\n                    History\n                ",
+		"description": [
+			"<p><strong>Umma H&uuml;sla Hackathon 2018:</strong></p>\n<p>Mit dem Motto &ldquo;Ship it&rdquo; haben wir den l&auml;nder&uuml;bergreifenden #UH19 in &Ouml;sterreich, Deutschland und der Schweiz auf dem Bodensee veranstaltet. Mit dem Schiff haben wir Bregenz, Konstanz und Romanshorn bereist und 28 spannende Stunden verbracht. Die Projekte reichten von ferngesteuerten M&uuml;llsammlern beim Kinderhackathon, &uuml;ber smarte Hochbeete bis hin zu Robotern, die H&auml;user bauen.</p>\n<p>&nbsp;</p>\n<p><a href=\"https://www.youtube.com/watch?v=YLa6jpYIcFA\">Video</a></p>\n<p><a href=\"https://www.facebook.com/pg/DigitaleInitiativen/photos/?tab=album&amp;album_id=2347152978855362\">Photos</a></p>\n<div class=\"mv-item-bar mv-ui\" hidden=\"\">&nbsp;</div>"
+		]
+	}
 }
