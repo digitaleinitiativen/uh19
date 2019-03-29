@@ -149,27 +149,12 @@
 					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@0a0b86315fb94d945f14afc89b83ff08845f85c0/images/01_TigerOrange_IL-Logo-Combined-Colour.png"
 				},
 				{
-					"package": "4"
-				},
-				{
-					"package": "2",
-					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@3ce6fe0e1bce694a3b14c7a6f12e633e982f451b/images/logo_rhomberg_quer_cmyk.jpg"
-				},
-				{
-					"package": "4"
-				},
-				{
-					"package": "5"
-				},
-				{
-					"package": "5"
-				},
-				{
 					"package": "2",
 					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@d0e354b20bca165d8dbb1bf0a8ba090d61968c95/images/05_Gainsboro_FHV.png"
 				},
 				{
-					"package": "5"
+					"package": "2",
+					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@3ce6fe0e1bce694a3b14c7a6f12e633e982f451b/images/logo_rhomberg_quer_cmyk.jpg"
 				}
 			]
 		}
