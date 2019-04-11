@@ -146,19 +146,23 @@
 			"sponsors": [
 				{
 					"package": "1",
-					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@0a0b86315fb94d945f14afc89b83ff08845f85c0/images/01_TigerOrange_IL-Logo-Combined-Colour.png"
+					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@0a0b86315fb94d945f14afc89b83ff08845f85c0/images/01_TigerOrange_IL-Logo-Combined-Colour.png",
+					"link": "https://www.innovationlab.energy/"
 				},
 				{
 					"package": "2",
-					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@d0e354b20bca165d8dbb1bf0a8ba090d61968c95/images/05_Gainsboro_FHV.png"
+					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@d0e354b20bca165d8dbb1bf0a8ba090d61968c95/images/05_Gainsboro_FHV.png",
+					"link": "https://www.fhv.at"
 				},
 				{
 					"package": "5",
-					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@2dd5c9b396b5bfd0efeacb2e3bdd1a93703fe9f2/images/v-digital_Logo.jpg"
+					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@2dd5c9b396b5bfd0efeacb2e3bdd1a93703fe9f2/images/v-digital_Logo.jpg",
+					"link": "https://www.wisto.at/de/services/v-digital/"
 				},
 				{
 					"package": "2",
-					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@3ce6fe0e1bce694a3b14c7a6f12e633e982f451b/images/logo_rhomberg_quer_cmyk.jpg"
+					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@3ce6fe0e1bce694a3b14c7a6f12e633e982f451b/images/logo_rhomberg_quer_cmyk.jpg",
+					"link": "https://www.rhomberg.com/de"
 				}
 			]
 		}
