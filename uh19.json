@@ -150,14 +150,14 @@
 					"link": "https://www.innovationlab.energy/"
 				},
 				{
-					"package": "5",
-					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@d0e354b20bca165d8dbb1bf0a8ba090d61968c95/images/05_Gainsboro_FHV.png",
-					"link": "https://www.fhv.at"
-				},
-				{
 					"package": "4",
 					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@2dd5c9b396b5bfd0efeacb2e3bdd1a93703fe9f2/images/v-digital_Logo.jpg",
 					"link": "https://www.wisto.at/de/services/v-digital/"
+				},
+				{
+					"package": "5",
+					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@d0e354b20bca165d8dbb1bf0a8ba090d61968c95/images/05_Gainsboro_FHV.png",
+					"link": "https://www.fhv.at"
 				},
 				{
 					"package": "2",
