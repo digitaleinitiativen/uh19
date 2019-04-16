@@ -156,8 +156,22 @@
 				},
 				{
 					"package": "4",
+					"link": "https://www.blum.com/at/de/",
+					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@c34e437821336724fe2c9dd918f8626ab21d47da/images/BLUMLOGO-orange.png"
+				},
+				{
+					"package": "4",
 					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@2dd5c9b396b5bfd0efeacb2e3bdd1a93703fe9f2/images/v-digital_Logo.jpg",
 					"link": "https://www.wisto.at/de/services/v-digital/"
+				},
+				{
+					"package": "4",
+					"link": "https://www.fusonic.net/de/",
+					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@4c506acb167825d333d82024cfe091f5d63389d8/images/fusonic-logo-rgb-yb-800px.png"
+				},
+				{
+					"package": "4",
+					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@c91a435c2c0fb07c5b29497816027761d488ed17/images/GW_brand_DE_left_orange_PNG_5213.png"
 				},
 				{
 					"package": "5",
