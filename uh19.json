@@ -156,13 +156,12 @@
 				},
 				{
 					"package": "4",
-					"link": "https://www.blum.com/at/de/",
-					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@c34e437821336724fe2c9dd918f8626ab21d47da/images/BLUMLOGO-orange.png"
+					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@c91a435c2c0fb07c5b29497816027761d488ed17/images/GW_brand_DE_left_orange_PNG_5213.png"
 				},
 				{
 					"package": "4",
-					"link": "https://www.antiloop.com",
-					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@be4d8f827047f8714d96767a8bad1e0bf07dd912/images/Antiloop_wide.png"
+					"link": "https://www.blum.com/at/de/",
+					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@c34e437821336724fe2c9dd918f8626ab21d47da/images/BLUMLOGO-orange.png"
 				},
 				{
 					"package": "4",
@@ -175,18 +174,19 @@
 					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@4c506acb167825d333d82024cfe091f5d63389d8/images/fusonic-logo-rgb-yb-800px.png"
 				},
 				{
+					"package": "5",
+					"link": "https://www.eberle.at/de/",
+					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@78ab9dd3ea3a302d08a186bf5d32d94d6c7d9416/images/Logo_EAS_Name_Internetadresse.jpg"
+				},
+				{
 					"package": "4",
-					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@c91a435c2c0fb07c5b29497816027761d488ed17/images/GW_brand_DE_left_orange_PNG_5213.png"
+					"link": "https://www.antiloop.com",
+					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@be4d8f827047f8714d96767a8bad1e0bf07dd912/images/Antiloop_wide.png"
 				},
 				{
 					"package": "5",
 					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@d0e354b20bca165d8dbb1bf0a8ba090d61968c95/images/05_Gainsboro_FHV.png",
 					"link": "https://www.fhv.at"
-				},
-				{
-					"package": "5",
-					"link": "https://www.eberle.at/de/",
-					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@78ab9dd3ea3a302d08a186bf5d32d94d6c7d9416/images/Logo_EAS_Name_Internetadresse.jpg"
 				}
 			]
 		}
