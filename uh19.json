@@ -177,6 +177,11 @@
 					"package": "5",
 					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@d0e354b20bca165d8dbb1bf0a8ba090d61968c95/images/05_Gainsboro_FHV.png",
 					"link": "https://www.fhv.at"
+				},
+				{
+					"package": "5",
+					"link": "https://www.eberle.at/de/",
+					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@78ab9dd3ea3a302d08a186bf5d32d94d6c7d9416/images/Logo_EAS_Name_Internetadresse.jpg"
 				}
 			]
 		}
