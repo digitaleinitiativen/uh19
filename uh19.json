@@ -187,6 +187,14 @@
 					"package": "5",
 					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@d0e354b20bca165d8dbb1bf0a8ba090d61968c95/images/05_Gainsboro_FHV.png",
 					"link": "https://www.fhv.at"
+				},
+				{
+					"package": "1"
+				},
+				{
+					"package": "4",
+					"link": "https://www.lovelysystems.com/de/",
+					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@afeda467ed128cf7b2d8621d7c9f8d5c9ecd6666/images/04_GoldenRod_LovelySystems.png"
 				}
 			]
 		}
