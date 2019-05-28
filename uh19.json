@@ -175,14 +175,14 @@
 					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@4c506acb167825d333d82024cfe091f5d63389d8/images/fusonic-logo-rgb-yb-800px.png"
 				},
 				{
-					"package": "3",
-					"link": "http://schindlercreations.com/de/",
-					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@7817eb3841bd645137f05af399a0cac209ca6432/images/Logo_Gruen_mitClaim_RGB_SchindlerCreations.png"
-				},
-				{
 					"package": "5",
 					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@d0e354b20bca165d8dbb1bf0a8ba090d61968c95/images/05_Gainsboro_FHV.png",
 					"link": "https://www.fhv.at"
+				},
+				{
+					"package": "3",
+					"link": "http://schindlercreations.com/de/",
+					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@7817eb3841bd645137f05af399a0cac209ca6432/images/Logo_Gruen_mitClaim_RGB_SchindlerCreations.png"
 				},
 				{
 					"package": "4",
