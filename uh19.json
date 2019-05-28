@@ -175,14 +175,9 @@
 					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@4c506acb167825d333d82024cfe091f5d63389d8/images/fusonic-logo-rgb-yb-800px.png"
 				},
 				{
-					"package": "5",
-					"link": "https://www.eberle.at/de/",
-					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@78ab9dd3ea3a302d08a186bf5d32d94d6c7d9416/images/Logo_EAS_Name_Internetadresse.jpg"
-				},
-				{
-					"package": "4",
-					"link": "https://www.antiloop.com",
-					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@be4d8f827047f8714d96767a8bad1e0bf07dd912/images/Antiloop_wide.png"
+					"package": "3",
+					"link": "http://schindlercreations.com/de/",
+					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@7817eb3841bd645137f05af399a0cac209ca6432/images/Logo_Gruen_mitClaim_RGB_SchindlerCreations.png"
 				},
 				{
 					"package": "5",
@@ -191,13 +186,18 @@
 				},
 				{
 					"package": "4",
+					"link": "https://www.antiloop.com",
+					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@be4d8f827047f8714d96767a8bad1e0bf07dd912/images/Antiloop_wide.png"
+				},
+				{
+					"package": "4",
 					"link": "https://www.lovelysystems.com/de/",
 					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@afeda467ed128cf7b2d8621d7c9f8d5c9ecd6666/images/04_GoldenRod_LovelySystems.png"
 				},
 				{
-					"package": "3",
-					"link": "http://schindlercreations.com/de/",
-					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@7817eb3841bd645137f05af399a0cac209ca6432/images/Logo_Gruen_mitClaim_RGB_SchindlerCreations.png"
+					"package": "5",
+					"link": "https://www.eberle.at/de/",
+					"sponsor": "https://cdn.jsdelivr.net/gh/digitaleinitiativen/uh19@78ab9dd3ea3a302d08a186bf5d32d94d6c7d9416/images/Logo_EAS_Name_Internetadresse.jpg"
 				}
 			]
 		}
